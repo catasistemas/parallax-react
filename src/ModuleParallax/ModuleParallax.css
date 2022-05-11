@@ -1,0 +1,22 @@
+body,
+html {
+  margin: 0;
+}
+
+
+.caption .border {
+  background-color: #111;
+  color: #fff;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 10px;
+}
+
+.section {
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0 200px;
+}
